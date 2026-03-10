@@ -1,7 +1,7 @@
 # thai_hotline_app
 
 A new Flutter project.
-<img width="828" " alt="localhost_51226_(iPhone XR)" src="https://github.com/user-attachments/assets/222b71cf-dc04-4a54-9c49-6174ae213906" />
+<img width="350" alt="localhost_51226_(iPhone XR)" src="https://github.com/user-attachments/assets/222b71cf-dc04-4a54-9c49-6174ae213906" />
 
 <img width="350"  alt="localhost_51226_(iPhone XR) (1)" src="https://github.com/user-attachments/assets/2e38078f-b9c0-432d-b653-3257334d121b" />
 <img width="350"  alt="localhost_51226_(iPhone XR) (2)" src="https://github.com/user-attachments/assets/2a396eb0-c03b-4af6-b8ce-6398c8442e37" />
